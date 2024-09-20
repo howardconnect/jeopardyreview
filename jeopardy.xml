@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jeopardy>
+  <!-- Category 1: Chapter 1 & 2 Wildcard -->
+  <category title="Chapter 1 &amp; 2 Wildcard">
+    <question value="100">
+      What does "dorsal" refer to in anatomical directions?
+      <answer>B. Back of the body</answer>
+      <choices>
+        <choice>A. Front of the body</choice>
+        <choice>B. Back of the body</choice>
+        <choice>C. Top of the body</choice>
+        <choice>D. Bottom of the body</choice>
+      </choices>
+    </question>
+    <question value="200">
+      Which body cavity contains the brain?
+      <answer>C. Cranial cavity</answer>
+      <choices>
+        <choice>A. Thoracic cavity</choice>
+        <choice>B. Abdominal cavity</choice>
+        <choice>C. Cranial cavity</choice>
+        <choice>D. Ventral cavity</choice>
+      </choices>
+    </question>
+    <question value="300">
+      Which plane divides the body into anterior and posterior sections?
+      <answer>B. Coronal plane</answer>
+      <choices>
+        <choice>A. Transverse plane</choice>
+        <choice>B. Coronal plane</choice>
+        <choice>C. Sagittal plane</choice>
+        <choice>D. Oblique plane</choice>
+      </choices>
+    </question>
+    <question value="400">
+      What does "inferior" refer to in anatomical directions?
+      <answer>C. Below or lower</answer>
+      <choices>
+        <choice>A. Toward the back</choice>
+        <choice>B. Toward the front</choice>
+        <choice>C. Below or lower</choice>
+        <choice>D. Toward the side</choice>
+      </choices>
+    </question>
+    <question value="500">
+      This body cavity contains the heart and lungs. (Answer: Thoracic cavity)
+      <answer>Thoracic cavity</answer>
+    </question>
+    <question value="600">
+      The term used to describe the position of the wrist relative to the elbow is ___. (Answer: Distal)
+      <answer>Distal</answer>
+    </question>
+  </category>
+
+  <!-- Category 2: Chapter 4 Review -->
+  <category title="Chapter 4 Review">
+    <question value="100">
+      Which type of epithelial tissue forms the outer layer of the skin?
+      <answer>C. Stratified squamous</answer>
+      <choices>
+        <choice>A. Simple squamous</choice>
+        <choice>B. Simple cuboidal</choice>
+        <choice>C. Stratified squamous</choice>
+        <choice>D. Transitional</choice>
+      </choices>
+    </question>
+    <question value="200">
+      What is the main function of connective tissue?
+      <answer>B. Support and bind other tissues</answer>
+      <choices>
+        <choice>A. Conduct nerve impulses</choice>
+        <choice>B. Support and bind other tissues</choice>
+        <choice>C. Absorb nutrients</choice>
+        <choice>D. Contract for movement</choice>
+      </choices>
+    </question>
+    <question value="300">
+      Nervous tissue consists of neurons and this type of supporting cell.
+      <answer>B. Glial cells</answer>
+      <choices>
+        <choice>A. Chondrocytes</choice>
+        <choice>B. Glial cells</choice>
+        <choice>C. Osteocytes</choice>
+        <choice>D. Adipocytes</choice>
+      </choices>
+    </question>
+    <question value="400">
+      What type of tissue is responsible for contractions and movement?
+      <answer>C. Muscle tissue</answer>
+      <choices>
+        <choice>A. Nervous tissue</choice>
+        <choice>B. Epithelial tissue</choice>
+        <choice>C. Muscle tissue</choice>
+        <choice>D. Connective tissue</choice>
+      </choices>
+    </question>
+    <question value="500">
+      This structure in a neuron receives incoming signals and directs them toward the cell body. (Answer: Dendrites)
+      <answer>Dendrites</answer>
+    </question>
+    <question value="600">
+      The extracellular matrix of connective tissue contains fibers like collagen, reticular, and ___. (Answer: Elastic fibers)
+      <answer>Elastic fibers</answer>
+    </question>
+  </category>
+
+  <!-- Category 3: Functions of the Integumentary System -->
+  <category title="Functions of the Integumentary System">
+    <question value="100">
+      Which skin function is primarily responsible for preventing dehydration?
+      <answer>D. Protection</answer>
+      <choices>
+        <choice>A. Vitamin D production</choice>
+        <choice>B. Excretion</choice>
+        <choice>C. Sensation</choice>
+        <choice>D. Protection</choice>
+      </choices>
+    </question>
+    <question value="200">
+      Which of the following functions involves regulating body temperature?
+      <answer>A. Sweating</answer>
+      <choices>
+        <choice>A. Sweating</choice>
+        <choice>B. Protection</choice>
+        <choice>C. Melanin production</choice>
+        <choice>D. Vitamin D production</choice>
+      </choices>
+    </question>
+    <question value="300">
+      What role does the skin play in the production of Vitamin D?
+      <answer>A. Produces vitamin D upon exposure to sunlight</answer>
+      <choices>
+        <choice>A. Produces vitamin D upon exposure to sunlight</choice>
+        <choice>B. Absorbs vitamin D from the diet</choice>
+        <choice>C. Stores vitamin D in the epidermis</choice>
+        <choice>D. Transfers vitamin D from the liver to the skin</choice>
+      </choices>
+    </question>
+    <question value="400">
+      What is the function of sweat glands in the skin?
+      <answer>B. Regulate body temperature through evaporation</answer>
+      <choices>
+        <choice>A. Produce oil to lubricate skin</choice>
+        <choice>B. Regulate body temperature through evaporation</choice>
+        <choice>C. Secrete hormones</choice>
+        <choice>D. Protect from UV light</choice>
+      </choices>
+    </question>
+    <question value="500">
+      The skin regulates body temperature through two key processes: dilation/constriction of blood vessels and the production of this liquid by glands. (Answer: Sweat)
+      <answer>Sweat</answer>
+    </question>
+    <question value="600">
+      The skin aids in waste excretion by eliminating small amounts of ___ through sweat. (Answer: Urea)
+      <answer>Urea</answer>
+    </question>
+  </category>
+
+  <!-- Category 4: Layers of the Skin -->
+  <category title="Layers of the Skin">
+    <question value="100">
+      Which layer of skin contains melanocytes, the cells responsible for skin color?
+      <answer>B. Stratum basale</answer>
+      <choices>
+        <choice>A. Stratum corneum</choice>
+        <choice>B. Stratum basale</choice>
+        <choice>C. Dermis</choice>
+        <choice>D. Subcutaneous tissue</choice>
+      </choices>
+    </question>
+    <question value="200">
+      What is the outermost layer of the epidermis called?
+      <answer>D. Stratum corneum</answer>
+      <choices>
+        <choice>A. Stratum basale</choice>
+        <choice>B. Stratum granulosum</choice>
+        <choice>C. Stratum spinosum</choice>
+        <choice>D. Stratum corneum</choice>
+      </choices>
+    </question>
+    <question value="300">
+      What is the function of the stratum corneum?
+      <answer>A. Provide a tough, waterproof barrier</answer>
+      <choices>
+        <choice>A. Provide a tough, waterproof barrier</choice>
+        <choice>B. House sensory receptors</choice>
+        <choice>C. Store melanin</choice>
+        <choice>D. Contain hair follicles</choice>
+      </choices>
+    </question>
+    <question value="400">
+      Which layer of the dermis contains collagen and elastic fibers, providing strength and flexibility to the skin?
+      <answer>D. Reticular layer</answer>
+      <choices>
+        <choice>A. Papillary layer</choice>
+        <choice>B. Epidermal layer</choice>
+        <choice>C. Subcutaneous layer</choice>
+        <choice>D. Reticular layer</choice>
+      </choices>
+    </question>
+    <question value="500">
+      Name the layer of skin that helps anchor it to underlying structures and provides insulation. (Answer: Subcutaneous tissue)
+      <answer>Subcutaneous tissue</answer>
+    </question>
+    <question value="600">
+      This layer of the epidermis contains dead keratinized cells. (Answer: Stratum corneum)
+      <answer>Stratum corneum</answer>
+    </question>
+  </category>
+
+  <!-- Category 5: Accessory Structures & Skin Color/Protection -->
+  <category title="Accessory Structures &amp; Skin Color/Protection">
+       <question value="100">
+      This protein in the epidermis provides a tough, waterproof barrier to the skin.
+      <answer>Keratin</answer>
+    </question>
+    <question value="200">
+      What is the primary pigment responsible for skin color?
+      <answer>Melanin</answer>
+    </question>
+    <question value="300">
+      Sebaceous glands secrete this substance to keep hair and skin moisturized.
+      <answer>Sebum</answer>
+    </question>
+    <question value="400">
+      Collagen is abundant in this layer of the dermis, providing the skin its strength.
+      <answer>Reticular layer</answer>
+    </question>
+    <question value="500">
+      This gene is responsible for producing collagen-7, which is essential for skin integrity. (Answer: COL7A1 gene)
+      <answer>COL7A1 gene</answer>
+    </question>
+    <question value="600">
+      Arrector pili muscles contract to produce this effect on the skin when cold or scared. (Answer: Goosebumps)
+      <answer>Goosebumps</answer>
+    </question>
+  </category>
+</jeopardy>
+
